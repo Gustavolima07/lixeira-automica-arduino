@@ -112,7 +112,7 @@ How it works:
 
 ## 📷 Demonstração / Demonstration
 
-[! Demonstração da lixeira automática / Automatic Trash Can Demo](./Vídeo%20do%20WhatsApp%20de%202025-09-20%20à(s)%2010.30.50_2f54b777.mp4)
+[! Demonstração da lixeira automática / Automatic Trash Can Demo](./auto_trash.gif)
 
 ---
 
